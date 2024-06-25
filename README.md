@@ -1,1 +1,7 @@
 # Learn Node.js
+
+The purpose of this repository is to facilitate learning Node.js and its various applications. This repository follows along with Maximilian Schwarzmüller's Udemy course, "NodeJS - The Complete Guide (MVC, REST APIs, GraphQL, Deno)."
+
+| Section No. | Title | Files |
+| :---------- | :---- | :---- |
+| 1 | Introduction | [Click Here](./1%20introduction/) |
