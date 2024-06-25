@@ -5,3 +5,4 @@ The purpose of this repository is to facilitate learning Node.js and its various
 | Section No. | Title | Files |
 | :---------- | :---- | :---- |
 | 1 | Introduction | [Click Here](./1%20introduction/) |
+| 2 | JavaScript Refresher | [Click Here](./2%20javascript-refresh/) |
