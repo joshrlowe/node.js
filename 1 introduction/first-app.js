@@ -1,8 +1,8 @@
 // Import the file system module from Node.js
-const fs = require('fs');
+const fs = require("fs");
 
 // Write a message to 'hello.txt', creating or overwriting the file
-fs.writeFileSync('hello.txt', 'Hello from Node.js');
+fs.writeFileSync("hello.txt", "Hello from Node.js");
 
 /* Explanation of fs.writeFileSync:
  * - The first parameter is the path to the file.
