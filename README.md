@@ -8,3 +8,4 @@ The purpose of this repository is to facilitate learning Node.js and its various
 | 2           | JavaScript Refresher                      | [Click Here](./2%20javascript-refresh/)             |
 | 3           | Node.js Basics                            | [Click Here](./3%20nodejs-basics/)                  |
 | 4           | Improved Development Workflow & Debugging | [Click Here](./4%20development-workflow-debugging/) |
+| 5           | Working with Express.js                   | [Click Here](./5%20express.js/)                     |
