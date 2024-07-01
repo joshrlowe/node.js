@@ -1,0 +1,12 @@
+extends layouts/main-layout.pug
+block title
+    if pageTitle
+        title #{pageTitle}
+    else 
+        title Add User
+block body 
+    main 
+        form(action="/" method="POST") 
+            label(for="title") Title 
+            input(type="text" name="title")
+            button(type="submit") Add User
