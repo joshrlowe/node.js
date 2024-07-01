@@ -1,0 +1,13 @@
+extends layouts/main-layout.pug 
+
+block title 
+    if pageTitle
+      title #{pageTitle}
+    else
+      title Page Not Found
+
+block styles
+    link(rel="stylesheet" href="/css/main.css")
+
+block content
+    h1 Page Not Found!
