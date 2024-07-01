@@ -21,7 +21,7 @@
 
 - Description:
   - Uses minimal HTML and a custom template language.
-  
+
 ## 3. Handlebars
 
 - Syntax:
