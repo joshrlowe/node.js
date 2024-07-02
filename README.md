@@ -12,3 +12,4 @@ The purpose of this repository is to facilitate learning Node.js and its various
 | 6           | Working with Dynamic Content & Adding Template Engines | [Click Here](./6-dynamic-content-template-engines/) |
 | 7           | The Model View Controller (MVC)                        | [Click Here](./7-mvc/)                              |
 | 8           | Enhancing the App                                      | [Click Here](./8-enhancing-the-app/)                |
+| 9           | Dynamic Routes & Advanced Models                       | [Click Here](./9-dynamic-routes-advanced-models/)   |
