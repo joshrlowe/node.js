@@ -11,3 +11,4 @@ The purpose of this repository is to facilitate learning Node.js and its various
 | 5           | Working with Express.js                                | [Click Here](./5%20express.js/)                     |
 | 6           | Working with Dynamic Content & Adding Template Engines | [Click Here](./6-dynamic-content-template-engines/) |
 | 7           | The Model View Controller (MVC)                        | [Click Here](./7-mvc/)                              |
+| 8           | Enhancing the App                                      | [Click Here](./8-enhancing-the-app/)                |
