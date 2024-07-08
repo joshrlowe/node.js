@@ -15,3 +15,4 @@ The purpose of this repository is to facilitate learning Node.js and its various
 | 9           | Dynamic Routes & Advanced Models                       | [Click Here](./9-dynamic-routes-advanced-models/)   |
 | 10          | SQL Introduction                                       | [Click Here](./10-sql-introduction/)                |
 | 11          | Understanding Sequelize                                | [Click Here](./11-sequelize/)                       |
+| 12          | Working with NoSQL & Using MongoDB                     | [Click Here](./12-nosql-mongodb/)                   |
