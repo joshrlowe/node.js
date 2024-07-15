@@ -17,3 +17,4 @@ The purpose of this repository is to facilitate learning Node.js and its various
 | 11          | Understanding Sequelize                                | [Click Here](./11-sequelize/)                       |
 | 12          | Working with NoSQL & Using MongoDB                     | [Click Here](./12-nosql-mongodb/)                   |
 | 13          | Working with Mongoose                                  | [Click Here](./13-mongoose/)                        |
+| 14          | Sessions & Cookies                                     | [Click Here](./14-sessions-cookies/)                |
