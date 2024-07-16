@@ -20,3 +20,4 @@ The purpose of this repository is to facilitate learning Node.js and its various
 | 14          | Sessions & Cookies                                     | [Click Here](./14-sessions-cookies/)                |
 | 15          | Adding Authentication                                  | [Click Here](./15-authentication/)                  |
 | 16          | Sending Emails                                         | [Click Here](./16-sending-emails/)                  |
+| 17          | Advanced Authentication                                | [Click Here](./17-advanced-authentication/)         |
