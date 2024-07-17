@@ -112,9 +112,9 @@
    - Handle non-exceptional error conditions, such as user input errors or missing data.
    - Provide user feedback or retry mechanisms.
 
-# Different Types of Errors
+## Different Types of Errors
 
-## Technical/Network Errors
+### Technical/Network Errors
 
 - **Examples**:
 
@@ -127,7 +127,7 @@
   - Log the error for further investigation.
   - Implement retry mechanisms or alternative actions if possible.
 
-## "Expected" Errors
+### "Expected" Errors
 
 - **Examples**:
 
@@ -139,7 +139,7 @@
   - Provide possible solutions or retry options.
   - Log the error for debugging purposes.
 
-## Bugs/Logical Errors
+### Bugs/Logical Errors
 
 - **Examples**:
 
@@ -151,7 +151,7 @@
   - Add tests to prevent recurrence.
   - Refactor code to improve clarity and robustness.
 
-# Summary
+## Summary
 
 - **Synchronous Errors**: Use `try-catch` blocks for immediate error handling.
 - **Asynchronous Errors**: Use `then().catch()` or `async-await` with `try-catch` for handling asynchronous errors.
