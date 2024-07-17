@@ -23,3 +23,4 @@ The purpose of this repository is to facilitate learning Node.js and its various
 | 17          | Advanced Authentication                                | [Click Here](./17-advanced-authentication/)         |
 | 18          | Understanding Validation                               | [Click Here](./18-understanding-validation/)        |
 | 19          | Error Handling                                         | [Click Here](./19-error-handling/)                  |
+| 20          | File Upload & Download                                 | [Click Here](./20-file-upload-download/)            |
