@@ -2,5 +2,5 @@
 .git-credentials
 config/
 data/
-node_modules/
 images/
+node_modules/
