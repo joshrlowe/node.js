@@ -28,3 +28,4 @@ The purpose of this repository is to facilitate learning Node.js and its various
 | 22          | Understanding Async Requests                           | [Click Here](./22-async-requests/)                  |
 | 23          | Adding Payments                                        | [Click Here](./23-payments/)                        |
 | 24          | Working with REST APIs - The Basics                    | [Click Here](./24-rest-api-basics/)                 |
+| 25          | Working with REST APIs - The Practical Application     | [Click Here](./25-rest-api-application/)            |
