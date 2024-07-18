@@ -26,3 +26,4 @@ The purpose of this repository is to facilitate learning Node.js and its various
 | 20          | File Upload & Download                                 | [Click Here](./20-file-upload-download/)            |
 | 21          | Adding Pagination                                      | [Click Here](./21-pagination/)                      |
 | 22          | Understanding Async Requests                           | [Click Here](./22-async-requests/)                  |
+| 23          | Adding Payments                                        | [Click Here](./23-payments/)                        |
