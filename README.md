@@ -27,3 +27,4 @@ The purpose of this repository is to facilitate learning Node.js and its various
 | 21          | Adding Pagination                                      | [Click Here](./21-pagination/)                      |
 | 22          | Understanding Async Requests                           | [Click Here](./22-async-requests/)                  |
 | 23          | Adding Payments                                        | [Click Here](./23-payments/)                        |
+| 24          | Working with REST APIs - The Basics                    | [Click Here](./24-rest-api-basics/)                 |
